@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="runPythonScript.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="38"/>
+        <CursorPos X="65" Y="63"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="1"/>
+        <CursorPos Y="30"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="4" HistoryIndex="3">
+      <Position1>
+        <Filename Value="runPythonScript.lpr"/>
+        <Caret Line="65" TopLine="14"/>
+      </Position1>
+      <Position2>
+        <Filename Value="runPythonScript.lpr"/>
+        <Caret Line="21" TopLine="7"/>
+      </Position2>
+      <Position3>
+        <Filename Value="runPythonScript.lpr"/>
+        <Caret Line="11" Column="3" TopLine="5"/>
+      </Position3>
+      <Position4>
+        <Filename Value="runPythonScript.lpr"/>
+        <Caret Line="10" Column="18" TopLine="40"/>
+      </Position4>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
