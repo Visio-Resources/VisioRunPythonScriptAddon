@@ -15,3 +15,5 @@ The addon itself was written in Lazarus/FreePascal.
 Here is the example text output:
 
 ![image](https://github.com/user-attachments/assets/a9c05840-ec8e-4df5-8735-5fd1dcbc62bd)
+
+See: https://www.paulherber.co.uk/free-visio-addons/
